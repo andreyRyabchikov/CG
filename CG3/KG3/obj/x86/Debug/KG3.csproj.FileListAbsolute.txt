@@ -1,0 +1,26 @@
+C:\Users\1\Documents\Visual Studio 2012\Projects\KG3\KG3\bin\x86\Debug\KG3.exe
+C:\Users\1\Documents\Visual Studio 2012\Projects\KG3\KG3\bin\x86\Debug\KG3.pdb
+C:\Users\1\Documents\Visual Studio 2012\Projects\KG3\KG3\obj\x86\Debug\KG3.Form1.resources
+C:\Users\1\Documents\Visual Studio 2012\Projects\KG3\KG3\obj\x86\Debug\KG3.Properties.Resources.resources
+C:\Users\1\Documents\Visual Studio 2012\Projects\KG3\KG3\obj\x86\Debug\KG3.csproj.GenerateResource.Cache
+C:\Users\1\Documents\Visual Studio 2012\Projects\KG3\KG3\obj\x86\Debug\KG3.exe
+C:\Users\1\Documents\Visual Studio 2012\Projects\KG3\KG3\obj\x86\Debug\KG3.pdb
+C:\Users\1\Documents\Visual Studio 2012\Projects\KG3\KG3\obj\x86\Debug\KG3.csprojResolveAssemblyReference.cache
+C:\Users\андрей\Desktop\кг\CG3\KG3\obj\x86\Debug\KG3.csproj.AssemblyReference.cache
+C:\Users\андрей\Desktop\кг\CG3\KG3\obj\x86\Debug\KG3.csproj.SuggestedBindingRedirects.cache
+C:\Users\андрей\Desktop\кг\CG3\KG3\obj\x86\Debug\KG3.Form1.resources
+C:\Users\андрей\Desktop\кг\CG3\KG3\obj\x86\Debug\KG3.Properties.Resources.resources
+C:\Users\андрей\Desktop\кг\CG3\KG3\obj\x86\Debug\KG3.csproj.GenerateResource.cache
+C:\Users\андрей\Desktop\кг\CG3\KG3\obj\x86\Debug\KG3.csproj.CoreCompileInputs.cache
+C:\Users\андрей\Desktop\кг\CG3\KG3\obj\x86\Debug\KG3.exe
+C:\Users\андрей\Desktop\кг\CG3\KG3\obj\x86\Debug\KG3.pdb
+C:\Users\андрей\Desktop\кг\CG3\KG3\bin\x86\Debug\KG3.exe.config
+C:\Users\андрей\Desktop\кг\CG3\KG3\bin\x86\Debug\KG3.exe
+C:\Users\андрей\Desktop\кг\CG3\KG3\bin\x86\Debug\KG3.pdb
+C:\Users\андрей\Desktop\кг\CG3\KG3\bin\x86\Debug\Tao.FreeGlut.dll
+C:\Users\андрей\Desktop\кг\CG3\KG3\bin\x86\Debug\Tao.OpenGl.dll
+C:\Users\андрей\Desktop\кг\CG3\KG3\bin\x86\Debug\Tao.Platform.Windows.dll
+C:\Users\андрей\Desktop\кг\CG3\KG3\bin\x86\Debug\Tao.FreeGlut.xml
+C:\Users\андрей\Desktop\кг\CG3\KG3\bin\x86\Debug\Tao.OpenGl.xml
+C:\Users\андрей\Desktop\кг\CG3\KG3\bin\x86\Debug\Tao.Platform.Windows.xml
+C:\Users\андрей\Desktop\кг\CG3\KG3\obj\x86\Debug\KG3.csproj.CopyComplete

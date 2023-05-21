@@ -1,0 +1,11 @@
+C:\Users\андрей\Desktop\кг\CG2\CG2\obj\Debug\CG2.csproj.AssemblyReference.cache
+C:\Users\андрей\Desktop\кг\CG2\CG2\obj\Debug\CG2.csproj.SuggestedBindingRedirects.cache
+C:\Users\андрей\Desktop\кг\CG2\CG2\obj\Debug\CG2.MainForm.resources
+C:\Users\андрей\Desktop\кг\CG2\CG2\obj\Debug\CG2.Properties.Resources.resources
+C:\Users\андрей\Desktop\кг\CG2\CG2\obj\Debug\CG2.csproj.GenerateResource.cache
+C:\Users\андрей\Desktop\кг\CG2\CG2\obj\Debug\CG2.csproj.CoreCompileInputs.cache
+C:\Users\андрей\Desktop\кг\CG2\CG2\bin\Debug\CG2.exe.config
+C:\Users\андрей\Desktop\кг\CG2\CG2\bin\Debug\CG2.exe
+C:\Users\андрей\Desktop\кг\CG2\CG2\bin\Debug\CG2.pdb
+C:\Users\андрей\Desktop\кг\CG2\CG2\obj\Debug\CG2.exe
+C:\Users\андрей\Desktop\кг\CG2\CG2\obj\Debug\CG2.pdb

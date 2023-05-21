@@ -1,0 +1,11 @@
+C:\Users\андрей\Desktop\кг\CG1\Lab1\imp4\imp4\bin\Debug\imp4.exe.config
+C:\Users\андрей\Desktop\кг\CG1\Lab1\imp4\imp4\bin\Debug\imp4.exe
+C:\Users\андрей\Desktop\кг\CG1\Lab1\imp4\imp4\bin\Debug\imp4.pdb
+C:\Users\андрей\Desktop\кг\CG1\Lab1\imp4\imp4\obj\x86\Debug\CGLab1.csproj.AssemblyReference.cache
+C:\Users\андрей\Desktop\кг\CG1\Lab1\imp4\imp4\obj\x86\Debug\CGLab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\андрей\Desktop\кг\CG1\Lab1\imp4\imp4\obj\x86\Debug\CGLab1.MainForm.resources
+C:\Users\андрей\Desktop\кг\CG1\Lab1\imp4\imp4\obj\x86\Debug\imp4.Properties.Resources.resources
+C:\Users\андрей\Desktop\кг\CG1\Lab1\imp4\imp4\obj\x86\Debug\CGLab1.csproj.GenerateResource.cache
+C:\Users\андрей\Desktop\кг\CG1\Lab1\imp4\imp4\obj\x86\Debug\CGLab1.csproj.CoreCompileInputs.cache
+C:\Users\андрей\Desktop\кг\CG1\Lab1\imp4\imp4\obj\x86\Debug\imp4.exe
+C:\Users\андрей\Desktop\кг\CG1\Lab1\imp4\imp4\obj\x86\Debug\imp4.pdb
